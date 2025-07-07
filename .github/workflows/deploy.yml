@@ -39,6 +39,6 @@ jobs:
         with:
           project: "api-epaud"
           entrypoint: "dist/index.js"
-          root: ""
+          root: "dist"
           
           
